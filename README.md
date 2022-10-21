@@ -20,5 +20,5 @@ Since there were no Vine reviews in our filtered dataset, the percentage of Vine
 <br>
 
 ## Summary
-Because the filtering of the data was so strict, there were no Vine reviews at all and the model is skewed towards unpaid Vine reviews. The initial assumptions and filtering criteria should be adjusted and/or the initial dataset should be larger to refine this analysis.
+Because the filtering of the data was so strict, there were no Vine reviews at all and the model is therefore heavily skewed towards unpaid Vine reviews. The initial assumptions and filtering criteria should be adjusted and/or the initial dataset should be larger to refine this analysis.
 
