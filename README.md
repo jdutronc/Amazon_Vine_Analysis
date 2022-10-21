@@ -16,10 +16,9 @@ There were 4,675 5-star reviews in total, of which none were paid Vine reviews (
 <br>
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-
-
-
+Since there were no Vine reviews in our filtered dataset, the percentage of Vine reviews is 0% and non-Vine reviews 100%.
+<br>
 
 ## Summary
-
+Because the filtering of the data was so strict, there were no Vine reviews at all and the model is skewed towards unpaid Vine reviews. The initial assumptions and filtering criteria should be adjusted and/or the initial dataset should be larger to refine this analysis.
 
